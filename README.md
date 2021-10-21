@@ -30,6 +30,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## My Stats
-![Uki's github stats](https://github-readme-stats.vercel.app/api?username=ukicomputers&theme=blue-green)
+![Uki's github stats](https://github-readme-stats.vercel.app/api?username=ukicomputers&theme=white-green)
          
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ukicomputers&theme=white-green)
