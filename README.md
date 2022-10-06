@@ -3,6 +3,10 @@
 
 ## I'm Uglješa.
 
+## Reklama "Časopis Odskočna Daska":
+![slika](https://raw.githubusercontent.com/ukicomputers/casopisodskocnadaska/main/ukicomputers_reklama01538.png)
+[Posetite website Časopis "Odskočna Daska" klikom na ovaj link](https://odskocna-daska.web.app)!
+
 ### 💻 &nbsp;About Me 
 
 - 🤖 &nbsp; Hardware, robotics and Programing.
