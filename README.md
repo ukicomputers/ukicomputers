@@ -9,6 +9,13 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - 🤖 &nbsp; Hardware, robotics, programing, AI, machine learning.
 - 🎓 &nbsp; Constantly learning new programing languages and features.
 
+### 🏆 My Achievements
+- Won first place at robotic competition
+- Won first place at website design competition at older group
+- Presented as organisator at drone competition AI capabilities of Tello drone
+- Received 460 points in the first qualifying round in mathematical programming (next round 16th of December)
+- And others that I really don't remember...
+
 ### 🛠 &nbsp;Programming languages I use
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
