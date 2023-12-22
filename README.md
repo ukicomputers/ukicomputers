@@ -13,7 +13,8 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - Won first place at robotic competition
 - Won first place at website design competition at older group
 - Presented as organisator at drone competition AI capabilities of Tello drone
-- Received 460 points in the first qualifying round in mathematical programming (next round 16th of December)
+- Received 460 points in the first qualifying round in mathematical programming
+- Received 600/600 points in the second qualifying round in mathematical programming
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
 - And others that I really don't remember...
 
