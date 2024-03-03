@@ -41,10 +41,10 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - Competition ([archive](https://github.com/ukicomputers/Serbian-Competition-in-Informatics))
   <br>
   
-  ![result](https://img.shields.io/badge/1th_qualifying_round-460_out_of_600_points-green)<br>
-  ![result](https://img.shields.io/badge/2th_qualifying_round-600_out_of_600_points-green)<br>
-  ![result](https://img.shields.io/badge/Municipal_competition-330_out_of_400_points-green)<br>
-  ![result](https://img.shields.io/badge/Disrict_competition-%3F_out_of_400_points-red)<br>
+  ![result](https://img.shields.io/badge/1th_qualifying_round-460_out_of_600_points-green) (pass to municipal competition)<br>
+  ![result](https://img.shields.io/badge/2th_qualifying_round-600_out_of_600_points-green) (pass to municipal competition)<br>
+  ![result](https://img.shields.io/badge/Municipal_competition-330_out_of_400_points-green) (first place) <br>
+  ![result](https://img.shields.io/badge/Disrict_competition-400_out_of_400_points-green) (first place) <br>
 - Language usage stats
   <br>
   
