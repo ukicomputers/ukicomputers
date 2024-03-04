@@ -4,18 +4,16 @@
 
 My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'm working hard on my projects, so check them out! 
 <br><br>
-![header](https://img.shields.io/badge/Professional_in-CPP-blue)
-![header](https://img.shields.io/badge/Deep_dived_in-OpenCV-green)
-![header](https://img.shields.io/badge/Maker_of_customised-MicroPython_firmware-yellow)
+![header](https://img.shields.io/badge/Professional_in-CPP-blue) <br> (I can say it now after lot of experience and coding)
 
 ### 💻 &nbsp;About Me 
 
-- 🤖 &nbsp; Hardware, robotics, programing, AI, machine learning.
+- 🤖 &nbsp; Hardware (embedded systems), robotics, programing, AI, machine learning.
 - 🎓 &nbsp; Constantly learning new programing languages and features.
 
 ### 🏆 My Achievements
 - Won first place at robotic competition
-- Won first place at website design competition at older group
+- Won first place at website design competition at older group ([site](https://ukicomputers.web.app))
 - Presented as organisator at drone competition AI capabilities of Tello drone
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
 - And others that I really don't remember...
@@ -38,13 +36,14 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Current stats
-- Competition ([archive](https://github.com/ukicomputers/Serbian-Competition-in-Informatics))
+- Competition ([archived code](https://github.com/ukicomputers/Serbian-Competition-in-Informatics))
   <br>
   
   ![result](https://img.shields.io/badge/1th_qualifying_round-460_out_of_600_points-green) <br>(pass to municipal competition)<br>
   ![result](https://img.shields.io/badge/2th_qualifying_round-600_out_of_600_points-green) <br>(pass to municipal competition)<br>
   ![result](https://img.shields.io/badge/Municipal_competition-330_out_of_400_points-green) <br>(first place) <br>
   ![result](https://img.shields.io/badge/Disrict_competition-400_out_of_400_points-green) <br>(first place) <br>
+  And yet to come...
 - Language usage stats
   <br>
   
