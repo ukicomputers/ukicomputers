@@ -1,15 +1,14 @@
-### Hi there 👋
-
-## I'm Uglješa.
-
+## Hi there 👋!<br>I'm Uglješa.
 My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'm working hard on my projects, so check them out! 
 <br><br>
-![header](https://img.shields.io/badge/Professional_in-CPP-blue) <br> (I can say it now after lot of experience and coding)
+![header](https://img.shields.io/badge/Professional_in-CPP-blue) &nbsp; (I can say it now after lot of experience and coding 😎)<br>
+![ynas](https://img.shields.io/badge/Check_out_my_CPP_inference_library_for_-YOLO--NAS-white) &nbsp; ([here](https://github.com/ukicomputers/yolonas-cpp))
 
 ### 💻 &nbsp;About Me 
 
 - 🤖 &nbsp; Hardware (embedded systems), robotics, programing, AI, machine learning.
 - 🎓 &nbsp; Constantly learning new programing languages and features.
+- 📘 &nbsp; Also very interested in physics and mathematics.
 
 ### 🏆 My Achievements
 - Won first place at robotic competition
@@ -17,6 +16,10 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - Presented as organisator at drone competition AI capabilities of Tello drone
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
 - And others that I really don't remember...
+
+### Current competition stats
+- One of non-ordinary firsts on republic competition from mathematical programming for extremly hard assigments in season 2024. (355/400 points, my username from result below is **ugljesaLukesevic11**)
+  ![results](https://github.com/ukicomputers/ukicomputers/assets/84191191/7f03934a-6a93-434b-8357-e009cffb1f0d)
 
 ### 🛠 &nbsp;Programming languages and tools I use
 
@@ -34,17 +37,5 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Current stats
-- Competition ([archived code](https://github.com/ukicomputers/Serbian-Competition-in-Informatics))
-  <br>
-  
-  ![result](https://img.shields.io/badge/1th_qualifying_round-460_out_of_600_points-green) <br>(pass to municipal competition)<br>
-  ![result](https://img.shields.io/badge/2th_qualifying_round-600_out_of_600_points-green) <br>(pass to municipal competition)<br>
-  ![result](https://img.shields.io/badge/Municipal_competition-330_out_of_400_points-green) <br>(first place) <br>
-  ![result](https://img.shields.io/badge/Disrict_competition-400_out_of_400_points-green) <br>(first place) <br>
-  And yet to come...
-- Language usage stats
-  <br>
-  
-  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukicomputers&theme=dark)
+<br><br>
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukicomputers&theme=dark)
