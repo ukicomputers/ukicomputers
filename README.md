@@ -1,8 +1,7 @@
-## Hi there 👋!<br>I'm Uglješa.
+## Hi there 👋<br>I'm Uglješa.
 My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'm working hard on my projects, so check them out! 
 <br><br>
-![header](https://img.shields.io/badge/Professional_in-CPP-blue) &nbsp; (I can say it now after lot of experience and coding 😎)<br>
-![ynas](https://img.shields.io/badge/Check_out_my_CPP_inference_library_for_-YOLO--NAS-white) &nbsp; ([here](https://github.com/ukicomputers/yolonas-cpp))
+[![ynas](https://img.shields.io/badge/Check_out_my_CPP_inference_library_for_-YOLO--NAS-white)](https://github.com/ukicomputers/yolonas-cpp)
 
 ### 💻 &nbsp;About Me 
 
@@ -10,16 +9,16 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - 🎓 &nbsp; Constantly learning new programing languages and features.
 - 📘 &nbsp; Also very interested in physics and mathematics.
 
-### 🏆 My Achievements
+### 🏆 &nbsp;My Achievements
 - Won first place at robotic competition
 - Won first place at website design competition at older group ([site](https://ukicomputers.web.app))
 - Presented as organisator at drone competition AI capabilities of Tello drone
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
-- And others that I really don't remember...
+- Contibuted to great open-source machine vision community with work on fast CPP library for executing inference with YOLO-NAS model using OpenCV ([here](https://github.com/ukicomputers/yolonas-cpp))
 
-### Current competition stats
-- One of non-ordinary firsts on republic competition from mathematical programming for extremly hard assigments in season 2024. (355/400 points, my username from result below is **ugljesaLukesevic11**)
-  ![results](https://github.com/ukicomputers/ukicomputers/assets/84191191/7f03934a-6a93-434b-8357-e009cffb1f0d)
+### Current competition stats ([link](https://takprog.petlja.org/osnovnaskola))
+- One of non-ordinary firsts on republic competition from mathematical programming for extremly hard assigments in season 2024. (355/400 points)
+- Yet to come...
 
 ### 🛠 &nbsp;Programming languages and tools I use
 
