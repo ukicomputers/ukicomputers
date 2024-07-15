@@ -1,9 +1,9 @@
 ## Hi there 👋<br>I'm Uglješa.
-My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'm working hard on my projects, so check them out! 
+My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'm working hard on my projects, so check them out!
 <br><br>
 [![ynas](https://img.shields.io/badge/Check_out_my_CPP_inference_library_for_-YOLO--NAS-white)](https://github.com/ukicomputers/yolonas-cpp)
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;About Me
 
 - 🤖 &nbsp; Hardware (embedded systems), robotics, programing, AI, machine learning.
 - 🎓 &nbsp; Constantly learning new programing languages and features.
@@ -15,10 +15,7 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - Presented as organisator at drone competition AI capabilities of Tello drone
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
 - Contibuted to great open-source machine vision community with work on fast CPP library for executing inference with YOLO-NAS model using OpenCV ([here](https://github.com/ukicomputers/yolonas-cpp))
-
-### Current competition stats ([link](https://takprog.petlja.org/osnovnaskola))
 - One of non-ordinary firsts on republic competition from mathematical programming for extremly hard assigments in season 2024. (355/400 points)
-- Yet to come...
 
 ### 🛠 &nbsp;Programming languages and tools I use
 
