@@ -15,7 +15,6 @@ My greatest wish and dream is to enter the Faculty of Electrical Engineering. I'
 - Presented as organisator at drone competition AI capabilities of Tello drone
 - Was MikroE hardware intern ([proof](https://www.mikroe.com/blog/meet-mikroe-s-youngest-intern))
 - Contibuted to great open-source machine vision community with work on fast CPP library for executing inference with YOLO-NAS model using OpenCV ([here](https://github.com/ukicomputers/yolonas-cpp))
-- One of non-ordinary firsts on republic competition from mathematical programming for extremly hard assigments in season 2024. (355/400 points)
 
 ### 🛠 &nbsp;Programming languages and tools I use
 
